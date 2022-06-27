@@ -1,0 +1,225 @@
+2022-06-27 09:06:682 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:515 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (48c2a1e8c196def59850fa0ee101365c)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:468 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:963 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (0c05457f724060d0b3580e67461124b1)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:64 INFO  HomePage :68 - Getting homepage alert text [[ChromeDriver: chrome on WINDOWS (0c05457f724060d0b3580e67461124b1)] -> xpath: //div[@class='alert alert-info']]
+2022-06-27 09:06:954 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:705 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (013affd4898c7e1f4188c097bbaa77a5)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:900 INFO  HomePage :74 - mouse hover on careers tab [[ChromeDriver: chrome on WINDOWS (013affd4898c7e1f4188c097bbaa77a5)] -> xpath: //span[contains(text(),'Careers')]]
+2022-06-27 09:06:85 INFO  HomePage :79 - Clicking on current vacancies link [[ChromeDriver: chrome on WINDOWS (013affd4898c7e1f4188c097bbaa77a5)] -> xpath: //span[contains(text(),'Current vacancies')]]
+2022-06-27 09:06:128 INFO  VacancyPage :24 - Retrieving the text from total vacancy text
+2022-06-27 09:06:864 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:597 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (37b7f37f8cdcf12c2580d7013f5a1fdc)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:694 INFO  HomePage :85 - Clicking on product dropdown [[ChromeDriver: chrome on WINDOWS (37b7f37f8cdcf12c2580d7013f5a1fdc)] -> xpath: //select[@class='form-control']]
+2022-06-27 09:06:778 INFO  HomePage :94 - Retrieving the list of products
+2022-06-27 09:06:655 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:612 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (8e714c0fa47b1d424e54da7ff3fbfce2)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:762 INFO  HomePage :102 - Clicking on manage account link[[ChromeDriver: chrome on WINDOWS (8e714c0fa47b1d424e54da7ff3fbfce2)] -> xpath: //a[contains(text(),'Manage account')]]
+2022-06-27 09:06:971 INFO  HomePage :108 - Clicking on login button[[ChromeDriver: chrome on WINDOWS (8e714c0fa47b1d424e54da7ff3fbfce2)] -> xpath: //a[contains(text(),'Log in')]]
+2022-06-27 09:06:987 INFO  LoginPage :45 - Clicking on AcceptAll cookies Button
+2022-06-27 09:06:44 INFO  LoginPage :61 - Clicking on main login button [[ChromeDriver: chrome on WINDOWS (8e714c0fa47b1d424e54da7ff3fbfce2)] -> xpath: //input[@id='loginSubmit']]
+2022-06-27 09:06:99 INFO  LoginPage :65 - Verifying error message text: [[ChromeDriver: chrome on WINDOWS (8e714c0fa47b1d424e54da7ff3fbfce2)] -> xpath: //li[contains(text(),'Your password/username may be incorrect - please t')]]
+2022-06-27 09:06:943 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:62 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (ca80d42ccc18257420ccc48e166b27f3)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:927 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:296 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (bfb70ad8768a63ef70ae73bef3cee565)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:75 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:745 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (613e5de79ae109f2f0bb46b58504769f)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:795 INFO  HomePage :68 - Getting homepage alert text [[ChromeDriver: chrome on WINDOWS (613e5de79ae109f2f0bb46b58504769f)] -> xpath: //div[@class='alert alert-info']]
+2022-06-27 09:06:569 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:669 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (f519cc220ca01e8ab09e841c9a444c25)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:861 INFO  HomePage :74 - mouse hover on careers tab [[ChromeDriver: chrome on WINDOWS (f519cc220ca01e8ab09e841c9a444c25)] -> xpath: //span[contains(text(),'Careers')]]
+2022-06-27 09:06:549 INFO  HomePage :79 - Clicking on current vacancies link [[ChromeDriver: chrome on WINDOWS (f519cc220ca01e8ab09e841c9a444c25)] -> xpath: //span[contains(text(),'Current vacancies')]]
+2022-06-27 09:06:588 INFO  VacancyPage :24 - Retrieving the text from total vacancy text
+2022-06-27 09:06:391 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:77 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (7df707724391bc3fde7e4240105a2c82)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:219 INFO  HomePage :85 - Clicking on product dropdown [[ChromeDriver: chrome on WINDOWS (7df707724391bc3fde7e4240105a2c82)] -> xpath: //select[@class='form-control']]
+2022-06-27 09:06:300 INFO  HomePage :94 - Retrieving the list of products
+2022-06-27 09:06:152 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:921 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (abbe0a01da3d2e9b64b5d1f1ae41fb85)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:73 INFO  HomePage :102 - Clicking on manage account link[[ChromeDriver: chrome on WINDOWS (abbe0a01da3d2e9b64b5d1f1ae41fb85)] -> xpath: //a[contains(text(),'Manage account')]]
+2022-06-27 09:06:263 INFO  HomePage :108 - Clicking on login button[[ChromeDriver: chrome on WINDOWS (abbe0a01da3d2e9b64b5d1f1ae41fb85)] -> xpath: //a[contains(text(),'Log in')]]
+2022-06-27 09:06:284 INFO  LoginPage :45 - Clicking on AcceptAll cookies Button
+2022-06-27 09:06:950 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:896 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (6694e370045544614daece8461f98102)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:977 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:616 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (3c24621f897a9963f73c30ada7e7bc9d)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:521 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:14 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (524ef6b1fd8b9176c872b23cfc068cc2)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:72 INFO  HomePage :68 - Getting homepage alert text [[ChromeDriver: chrome on WINDOWS (524ef6b1fd8b9176c872b23cfc068cc2)] -> xpath: //div[@class='alert alert-info']]
+2022-06-27 09:06:843 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:182 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (dfe54eb9efa720f41c0417251ceb0191)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:385 INFO  HomePage :74 - mouse hover on careers tab [[ChromeDriver: chrome on WINDOWS (dfe54eb9efa720f41c0417251ceb0191)] -> xpath: //span[contains(text(),'Careers')]]
+2022-06-27 09:06:177 INFO  HomePage :79 - Clicking on current vacancies link [[ChromeDriver: chrome on WINDOWS (dfe54eb9efa720f41c0417251ceb0191)] -> xpath: //span[contains(text(),'Current vacancies')]]
+2022-06-27 09:06:210 INFO  VacancyPage :24 - Retrieving the text from total vacancy text
+2022-06-27 09:06:935 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:210 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (a8ba2c90ddf1e97f49075833b46fc4fb)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:384 INFO  HomePage :85 - Clicking on product dropdown [[ChromeDriver: chrome on WINDOWS (a8ba2c90ddf1e97f49075833b46fc4fb)] -> xpath: //select[@class='form-control']]
+2022-06-27 09:06:510 INFO  HomePage :94 - Retrieving the list of products
+2022-06-27 09:06:599 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:819 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (99178a4b2ded2f57ee854655800e9b9f)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:981 INFO  HomePage :102 - Clicking on manage account link[[ChromeDriver: chrome on WINDOWS (99178a4b2ded2f57ee854655800e9b9f)] -> xpath: //a[contains(text(),'Manage account')]]
+2022-06-27 09:06:158 INFO  HomePage :108 - Clicking on login button[[ChromeDriver: chrome on WINDOWS (99178a4b2ded2f57ee854655800e9b9f)] -> xpath: //a[contains(text(),'Log in')]]
+2022-06-27 09:06:176 INFO  LoginPage :45 - Clicking on AcceptAll cookies Button
+2022-06-27 09:06:413 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:566 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (063dc648507dbf74acbc687d0c45d26a)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:177 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:329 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (dc72480c3d2c315fcf8d9899c5962ca3)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:438 INFO  HomePage :102 - Clicking on manage account link[[ChromeDriver: chrome on WINDOWS (dc72480c3d2c315fcf8d9899c5962ca3)] -> xpath: //a[contains(text(),'Manage account')]]
+2022-06-27 09:06:549 INFO  HomePage :108 - Clicking on login button[[ChromeDriver: chrome on WINDOWS (dc72480c3d2c315fcf8d9899c5962ca3)] -> xpath: //a[contains(text(),'Log in')]]
+2022-06-27 09:06:579 INFO  LoginPage :45 - Clicking on AcceptAll cookies Button
+2022-06-27 09:06:573 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:309 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (79bd4cc75929879c4c0aa9656b2b51ba)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:419 INFO  HomePage :102 - Clicking on manage account link[[ChromeDriver: chrome on WINDOWS (79bd4cc75929879c4c0aa9656b2b51ba)] -> xpath: //a[contains(text(),'Manage account')]]
+2022-06-27 09:06:567 INFO  HomePage :108 - Clicking on login button[[ChromeDriver: chrome on WINDOWS (79bd4cc75929879c4c0aa9656b2b51ba)] -> xpath: //a[contains(text(),'Log in')]]
+2022-06-27 09:06:593 INFO  LoginPage :45 - Clicking on AcceptAll cookies Button
+2022-06-27 09:06:275 INFO  LoginPage :61 - Clicking on main login button [[ChromeDriver: chrome on WINDOWS (79bd4cc75929879c4c0aa9656b2b51ba)] -> xpath: //input[@id='loginSubmit']]
+2022-06-27 09:06:332 INFO  LoginPage :65 - Verifying error message text: [[ChromeDriver: chrome on WINDOWS (79bd4cc75929879c4c0aa9656b2b51ba)] -> xpath: //li[contains(text(),'Your password/username may be incorrect - please t')]]
+2022-06-27 09:06:998 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:353 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (17f5fe3ed1b06282669760f9d64bb8c4)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:216 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:690 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (b6cf829721eca448b3045d5af8fb85c6)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:735 INFO  HomePage :68 - Getting homepage alert text [[ChromeDriver: chrome on WINDOWS (b6cf829721eca448b3045d5af8fb85c6)] -> xpath: //div[@class='alert alert-info']]
+2022-06-27 09:06:458 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:480 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (7ebfe8c70b2588ecb43ba2c573d99057)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:709 INFO  HomePage :74 - mouse hover on careers tab [[ChromeDriver: chrome on WINDOWS (7ebfe8c70b2588ecb43ba2c573d99057)] -> xpath: //span[contains(text(),'Careers')]]
+2022-06-27 09:06:222 INFO  HomePage :79 - Clicking on current vacancies link [[ChromeDriver: chrome on WINDOWS (7ebfe8c70b2588ecb43ba2c573d99057)] -> xpath: //span[contains(text(),'Current vacancies')]]
+2022-06-27 09:06:258 INFO  VacancyPage :24 - Retrieving the text from total vacancy text
+2022-06-27 09:06:985 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:608 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (e70d8142ac31fb8b293820b524635747)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:746 INFO  HomePage :85 - Clicking on product dropdown [[ChromeDriver: chrome on WINDOWS (e70d8142ac31fb8b293820b524635747)] -> xpath: //select[@class='form-control']]
+2022-06-27 09:06:803 INFO  HomePage :94 - Retrieving the list of products
+2022-06-27 09:06:647 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:900 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (af261b3cdd64b82433b03663ab1e4a4d)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:68 INFO  HomePage :102 - Clicking on manage account link[[ChromeDriver: chrome on WINDOWS (af261b3cdd64b82433b03663ab1e4a4d)] -> xpath: //a[contains(text(),'Manage account')]]
+2022-06-27 09:06:634 INFO  HomePage :108 - Clicking on login button[[ChromeDriver: chrome on WINDOWS (af261b3cdd64b82433b03663ab1e4a4d)] -> xpath: //a[contains(text(),'Log in')]]
+2022-06-27 09:06:663 INFO  LoginPage :45 - Clicking on AcceptAll cookies Button
+2022-06-27 09:06:886 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:544 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (3e10bc799e766881054e557024038ec1)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:219 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:376 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (0b762692c38f2c4967b34672519e1907)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:189 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:682 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (df570a0a96d28408203336128b9f633f)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:731 INFO  HomePage :68 - Getting homepage alert text [[ChromeDriver: chrome on WINDOWS (df570a0a96d28408203336128b9f633f)] -> xpath: //div[@class='alert alert-info']]
+2022-06-27 09:06:449 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:412 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (0c9813620989733d2c73bd60e846dcb7)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:598 INFO  HomePage :74 - mouse hover on careers tab [[ChromeDriver: chrome on WINDOWS (0c9813620989733d2c73bd60e846dcb7)] -> xpath: //span[contains(text(),'Careers')]]
+2022-06-27 09:06:211 INFO  HomePage :79 - Clicking on current vacancies link [[ChromeDriver: chrome on WINDOWS (0c9813620989733d2c73bd60e846dcb7)] -> xpath: //span[contains(text(),'Current vacancies')]]
+2022-06-27 09:06:246 INFO  VacancyPage :24 - Retrieving the text from total vacancy text
+2022-06-27 09:06:964 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:586 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (248fdd7e76965c0efff674b34887e8ce)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:731 INFO  HomePage :85 - Clicking on product dropdown [[ChromeDriver: chrome on WINDOWS (248fdd7e76965c0efff674b34887e8ce)] -> xpath: //select[@class='form-control']]
+2022-06-27 09:06:860 INFO  HomePage :94 - Retrieving the list of products
+2022-06-27 09:06:879 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:30 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (433eaf4b4dd8472e4dbbbaa563b820cf)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:185 INFO  HomePage :102 - Clicking on manage account link[[ChromeDriver: chrome on WINDOWS (433eaf4b4dd8472e4dbbbaa563b820cf)] -> xpath: //a[contains(text(),'Manage account')]]
+2022-06-27 09:06:377 INFO  HomePage :108 - Clicking on login button[[ChromeDriver: chrome on WINDOWS (433eaf4b4dd8472e4dbbbaa563b820cf)] -> xpath: //a[contains(text(),'Log in')]]
+2022-06-27 09:06:497 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:609 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (f2582c09094c873d53cbcd3760322d72)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:617 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:987 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (8c174427cf5b5490b9df1b559a0ebd66)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:856 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:318 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (89a22037173161173ec6a39c73ee3b48)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:366 INFO  HomePage :68 - Getting homepage alert text [[ChromeDriver: chrome on WINDOWS (89a22037173161173ec6a39c73ee3b48)] -> xpath: //div[@class='alert alert-info']]
+2022-06-27 09:06:104 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:478 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (d89f549adec27d5bb76c5295b6d88e3b)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:662 INFO  HomePage :74 - mouse hover on careers tab [[ChromeDriver: chrome on WINDOWS (d89f549adec27d5bb76c5295b6d88e3b)] -> xpath: //span[contains(text(),'Careers')]]
+2022-06-27 09:06:797 INFO  HomePage :79 - Clicking on current vacancies link [[ChromeDriver: chrome on WINDOWS (d89f549adec27d5bb76c5295b6d88e3b)] -> xpath: //span[contains(text(),'Current vacancies')]]
+2022-06-27 09:06:832 INFO  VacancyPage :24 - Retrieving the text from total vacancy text
+2022-06-27 09:06:565 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:488 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (9eefa3d1ec0cfcc98f3205058e3f4d5c)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:568 INFO  HomePage :85 - Clicking on product dropdown [[ChromeDriver: chrome on WINDOWS (9eefa3d1ec0cfcc98f3205058e3f4d5c)] -> xpath: //select[@class='form-control']]
+2022-06-27 09:06:759 INFO  HomePage :94 - Retrieving the list of products
+2022-06-27 09:06:589 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:697 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (69f63496926b20b6222baa5d4b36480e)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:806 INFO  HomePage :102 - Clicking on manage account link[[ChromeDriver: chrome on WINDOWS (69f63496926b20b6222baa5d4b36480e)] -> xpath: //a[contains(text(),'Manage account')]]
+2022-06-27 09:06:898 INFO  HomePage :108 - Clicking on login button[[ChromeDriver: chrome on WINDOWS (69f63496926b20b6222baa5d4b36480e)] -> xpath: //a[contains(text(),'Log in')]]
+2022-06-27 09:06:702 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:643 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (97cfaa8465b62ef68b81c910dea93f4e)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:756 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:08 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (1a35a5209e3559da3e5ea215845f591d)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:145 INFO  HomePage :102 - Clicking on manage account link[[ChromeDriver: chrome on WINDOWS (1a35a5209e3559da3e5ea215845f591d)] -> xpath: //a[contains(text(),'Manage account')]]
+2022-06-27 09:06:285 INFO  HomePage :108 - Clicking on login button[[ChromeDriver: chrome on WINDOWS (1a35a5209e3559da3e5ea215845f591d)] -> xpath: //a[contains(text(),'Log in')]]
+2022-06-27 09:06:200 INFO  LoginPage :60 - Clicking on main login button [[ChromeDriver: chrome on WINDOWS (1a35a5209e3559da3e5ea215845f591d)] -> xpath: //input[@id='loginSubmit']]
+2022-06-27 09:06:268 INFO  LoginPage :64 - Verifying error message text: [[ChromeDriver: chrome on WINDOWS (1a35a5209e3559da3e5ea215845f591d)] -> xpath: //li[contains(text(),'Your password/username may be incorrect - please t')]]
+2022-06-27 09:06:132 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:480 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (abf9adce4e8415adeceb7054b4ae1d46)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:357 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:607 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (ebf7c91fd3d2e71ff6311545ff924896)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:655 INFO  HomePage :68 - Getting homepage alert text [[ChromeDriver: chrome on WINDOWS (ebf7c91fd3d2e71ff6311545ff924896)] -> xpath: //div[@class='alert alert-info']]
+2022-06-27 09:06:371 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:686 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (dae90b41fe18079f1892a47648739de9)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:852 INFO  HomePage :74 - mouse hover on careers tab [[ChromeDriver: chrome on WINDOWS (dae90b41fe18079f1892a47648739de9)] -> xpath: //span[contains(text(),'Careers')]]
+2022-06-27 09:06:297 INFO  HomePage :79 - Clicking on current vacancies link [[ChromeDriver: chrome on WINDOWS (dae90b41fe18079f1892a47648739de9)] -> xpath: //span[contains(text(),'Current vacancies')]]
+2022-06-27 09:06:329 INFO  VacancyPage :24 - Retrieving the text from total vacancy text
+2022-06-27 09:06:76 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:801 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (08d93b86c6321f491ecbaa1d4154c234)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:885 INFO  HomePage :85 - Clicking on product dropdown [[ChromeDriver: chrome on WINDOWS (08d93b86c6321f491ecbaa1d4154c234)] -> xpath: //select[@class='form-control']]
+2022-06-27 09:06:963 INFO  HomePage :94 - Retrieving the list of products
+2022-06-27 09:06:796 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:989 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (8c56544d82a4ba093622e1a978faa3f0)] -> id: wt-cli-accept-btn]
+2022-06-27 09:06:164 INFO  HomePage :102 - Clicking on manage account link[[ChromeDriver: chrome on WINDOWS (8c56544d82a4ba093622e1a978faa3f0)] -> xpath: //a[contains(text(),'Manage account')]]
+2022-06-27 09:06:351 INFO  HomePage :108 - Clicking on login button[[ChromeDriver: chrome on WINDOWS (8c56544d82a4ba093622e1a978faa3f0)] -> xpath: //a[contains(text(),'Log in')]]
+2022-06-27 09:06:661 INFO  LoginPage :60 - Clicking on main login button [[ChromeDriver: chrome on WINDOWS (8c56544d82a4ba093622e1a978faa3f0)] -> xpath: //input[@id='loginSubmit']]
+2022-06-27 09:06:712 INFO  LoginPage :64 - Verifying error message text: [[ChromeDriver: chrome on WINDOWS (8c56544d82a4ba093622e1a978faa3f0)] -> xpath: //li[contains(text(),'Your password/username may be incorrect - please t')]]
+2022-06-27 09:06:504 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 09:06:823 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (800c0a09f7236c81fd5b15e7cdc63231)] -> id: wt-cli-accept-btn]
+2022-06-27 10:06:494 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 10:06:585 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (e5e04afc7300227f0f6af433e93a7d6d)] -> id: wt-cli-accept-btn]
+2022-06-27 10:06:133 INFO  HomePage :102 - Clicking on manage account link[[ChromeDriver: chrome on WINDOWS (e5e04afc7300227f0f6af433e93a7d6d)] -> xpath: //a[contains(text(),'Manage account')]]
+2022-06-27 10:06:936 INFO  HomePage :108 - Clicking on login button[[ChromeDriver: chrome on WINDOWS (e5e04afc7300227f0f6af433e93a7d6d)] -> xpath: //a[contains(text(),'Log in')]]
+2022-06-27 10:06:704 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 10:06:251 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (f8db7b576961c84f9d3628945f036296)] -> id: wt-cli-accept-btn]
+2022-06-27 10:06:69 INFO  HomePage :102 - Clicking on manage account link[[ChromeDriver: chrome on WINDOWS (f8db7b576961c84f9d3628945f036296)] -> xpath: //a[contains(text(),'Manage account')]]
+2022-06-27 10:06:920 INFO  HomePage :108 - Clicking on login button[[ChromeDriver: chrome on WINDOWS (f8db7b576961c84f9d3628945f036296)] -> xpath: //a[contains(text(),'Log in')]]
+2022-06-27 13:06:973 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 13:06:634 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 13:06:928 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (9e5ec0e0459f91e097c5869ea5b908ac)] -> id: wt-cli-accept-btn]
+2022-06-27 13:06:153 INFO  HomePage :102 - Clicking on manage account link[[ChromeDriver: chrome on WINDOWS (9e5ec0e0459f91e097c5869ea5b908ac)] -> xpath: //a[contains(text(),'Manage account')]]
+2022-06-27 13:06:386 INFO  HomePage :108 - Clicking on login button[[ChromeDriver: chrome on WINDOWS (9e5ec0e0459f91e097c5869ea5b908ac)] -> xpath: //a[contains(text(),'Log in')]]
+2022-06-27 13:06:82 INFO  LoginPage :60 - Clicking on main login button [[ChromeDriver: chrome on WINDOWS (9e5ec0e0459f91e097c5869ea5b908ac)] -> xpath: //input[@id='loginSubmit']]
+2022-06-27 13:06:187 INFO  LoginPage :64 - Verifying error message text: [[ChromeDriver: chrome on WINDOWS (9e5ec0e0459f91e097c5869ea5b908ac)] -> xpath: //li[contains(text(),'Your password/username may be incorrect - please t')]]
+2022-06-27 14:06:158 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 14:06:560 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (0a03d0ae6c0242ca05499f93cd029972)] -> id: wt-cli-accept-btn]
+2022-06-27 14:06:679 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 14:06:796 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (cf29d25cdc69b6a61308a8a9dcea4496)] -> id: wt-cli-accept-btn]
+2022-06-27 14:06:921 INFO  HomePage :68 - Getting homepage alert text [[ChromeDriver: chrome on WINDOWS (cf29d25cdc69b6a61308a8a9dcea4496)] -> xpath: //div[@class='alert alert-info']]
+2022-06-27 14:06:819 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 14:06:163 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (086bcf85176d771a61c04b976bbd4337)] -> id: wt-cli-accept-btn]
+2022-06-27 14:06:404 INFO  HomePage :74 - mouse hover on careers tab [[ChromeDriver: chrome on WINDOWS (086bcf85176d771a61c04b976bbd4337)] -> xpath: //span[contains(text(),'Careers')]]
+2022-06-27 14:06:566 INFO  HomePage :79 - Clicking on current vacancies link [[ChromeDriver: chrome on WINDOWS (086bcf85176d771a61c04b976bbd4337)] -> xpath: //span[contains(text(),'Current vacancies')]]
+2022-06-27 14:06:623 INFO  VacancyPage :24 - Retrieving the text from total vacancy text
+2022-06-27 14:06:578 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 14:06:939 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (1493c6f100827e7459f94a69423ad403)] -> id: wt-cli-accept-btn]
+2022-06-27 14:06:133 INFO  HomePage :85 - Clicking on product dropdown [[ChromeDriver: chrome on WINDOWS (1493c6f100827e7459f94a69423ad403)] -> xpath: //select[@class='form-control']]
+2022-06-27 14:06:223 INFO  HomePage :94 - Retrieving the list of products
+2022-06-27 14:06:210 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 14:06:450 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (5a94ba6aa0f9aab8deec7312d992927b)] -> id: wt-cli-accept-btn]
+2022-06-27 14:06:660 INFO  HomePage :102 - Clicking on manage account link[[ChromeDriver: chrome on WINDOWS (5a94ba6aa0f9aab8deec7312d992927b)] -> xpath: //a[contains(text(),'Manage account')]]
+2022-06-27 14:06:879 INFO  HomePage :108 - Clicking on login button[[ChromeDriver: chrome on WINDOWS (5a94ba6aa0f9aab8deec7312d992927b)] -> xpath: //a[contains(text(),'Log in')]]
+2022-06-27 14:06:657 INFO  LoginPage :60 - Clicking on main login button [[ChromeDriver: chrome on WINDOWS (5a94ba6aa0f9aab8deec7312d992927b)] -> xpath: //input[@id='loginSubmit']]
+2022-06-27 14:06:789 INFO  LoginPage :64 - Verifying error message text: [[ChromeDriver: chrome on WINDOWS (5a94ba6aa0f9aab8deec7312d992927b)] -> xpath: //li[contains(text(),'Your password/username may be incorrect - please t')]]
+2022-06-27 14:06:783 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 14:06:740 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (db636d1bd008d4b12715ed10e387b48e)] -> id: wt-cli-accept-btn]
+2022-06-27 14:06:633 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 14:06:880 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (35a2b32de123c967a1f1554c306f76db)] -> id: wt-cli-accept-btn]
+2022-06-27 14:06:950 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 14:06:212 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (f14d553d6202891217e7878620b979d0)] -> id: wt-cli-accept-btn]
+2022-06-27 14:06:318 INFO  HomePage :68 - Getting homepage alert text [[ChromeDriver: chrome on WINDOWS (f14d553d6202891217e7878620b979d0)] -> xpath: //div[@class='alert alert-info']]
+2022-06-27 14:06:256 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 14:06:412 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (7a574b10b431e7c039ea5e72da87531b)] -> id: wt-cli-accept-btn]
+2022-06-27 14:06:676 INFO  HomePage :74 - mouse hover on careers tab [[ChromeDriver: chrome on WINDOWS (7a574b10b431e7c039ea5e72da87531b)] -> xpath: //span[contains(text(),'Careers')]]
+2022-06-27 14:06:190 INFO  HomePage :79 - Clicking on current vacancies link [[ChromeDriver: chrome on WINDOWS (7a574b10b431e7c039ea5e72da87531b)] -> xpath: //span[contains(text(),'Current vacancies')]]
+2022-06-27 14:06:237 INFO  VacancyPage :24 - Retrieving the text from total vacancy text
+2022-06-27 14:06:162 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 14:06:392 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (24e7ca43f5d9fdeb6ba5cff111a99e37)] -> id: wt-cli-accept-btn]
+2022-06-27 14:06:593 INFO  HomePage :85 - Clicking on product dropdown [[ChromeDriver: chrome on WINDOWS (24e7ca43f5d9fdeb6ba5cff111a99e37)] -> xpath: //select[@class='form-control']]
+2022-06-27 14:06:684 INFO  HomePage :94 - Retrieving the list of products
+2022-06-27 14:06:701 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 14:06:981 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (ba03fee24dcfa997cab5ecaa9d8d792b)] -> id: wt-cli-accept-btn]
+2022-06-27 14:06:191 INFO  HomePage :102 - Clicking on manage account link[[ChromeDriver: chrome on WINDOWS (ba03fee24dcfa997cab5ecaa9d8d792b)] -> xpath: //a[contains(text(),'Manage account')]]
+2022-06-27 14:06:405 INFO  HomePage :108 - Clicking on login button[[ChromeDriver: chrome on WINDOWS (ba03fee24dcfa997cab5ecaa9d8d792b)] -> xpath: //a[contains(text(),'Log in')]]
+2022-06-27 14:06:440 INFO  LoginPage :60 - Clicking on main login button [[ChromeDriver: chrome on WINDOWS (ba03fee24dcfa997cab5ecaa9d8d792b)] -> xpath: //input[@id='loginSubmit']]
+2022-06-27 14:06:571 INFO  LoginPage :64 - Verifying error message text: [[ChromeDriver: chrome on WINDOWS (ba03fee24dcfa997cab5ecaa9d8d792b)] -> xpath: //li[contains(text(),'Your password/username may be incorrect - please t')]]
+2022-06-27 14:06:593 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-06-27 14:06:32 INFO  HomePage :63 - Clicking on accept cookies [[ChromeDriver: chrome on WINDOWS (058c17e3748543d33550bb7add17e997)] -> id: wt-cli-accept-btn]
